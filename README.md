@@ -17,9 +17,9 @@ Interface Simples e Intuitiva: Navegação fácil para todos os tipos de usuári
 ### Pré-requisitos
 Para rodar este projeto localmente, você precisará de:
 
-#### Um navegador web (Chrome, Firefox, etc.)
-#### Acesso à internet para fazer chamadas à API
-#### Node.js e npm instalados
+#### 1. Um navegador web (Chrome, Firefox, etc.)
+#### 2. Acesso à internet para fazer chamadas à API
+#### 3. Node.js e npm instalados
   
 # Passos para Executar
 
@@ -54,7 +54,7 @@ npm start
 - Acesse http://localhost:3000 para visualizar o projeto.
 
 # Licença
-Este projeto é licenciado sob a GNU License. Veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a GNU GENERAL PUBLIC LICENSE License. Veja o arquivo LICENSE para mais detalhes.
 
 # Contato
 Rebeca Costa - 222201653@aluno.cotemig.com.br
