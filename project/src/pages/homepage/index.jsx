@@ -14,7 +14,7 @@ function Home() {
               <span>pedro </span> and <span> rebeca</span> <br />
               this is <span>our</span> project.
             </p>
-            <Link to="/projetos" className={`${styles.btn} ${styles.btn_red}`}>
+            <Link to="/bikes" className={`${styles.btn} ${styles.btn_red}`}>
               know more about bikes
             </Link>
           </div>
