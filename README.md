@@ -3,7 +3,9 @@ Bem-vindo ao projeto "beca&peter api motorcycle"! Este projeto foi desenvolvido 
 
 # Funcionalidades
 Busca de Motocicletas: Pesquise por modelos de motocicletas pela marca.
+
 Detalhes da Motocicleta: Veja informações detalhadas sobre cada modelo, incluindo informações do motor, poder, tipo, cilindrada da moto e muito mais.
+
 Interface Simples e Intuitiva: Navegação fácil para todos os tipos de usuários.
   
 # Tecnologias Utilizadas
@@ -56,4 +58,5 @@ Este projeto é licenciado sob a GNU License. Veja o arquivo LICENSE para mais d
 
 # Contato
 Rebeca Costa - 222201653@aluno.cotemig.com.br
+
 Pedro Gonçalves - 222201220@aluno.cotemig.com.br
