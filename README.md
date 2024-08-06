@@ -15,59 +15,45 @@ Bibliotecas e Frameworks: React
 Pré-requisitos
 Para rodar este projeto localmente, você precisará de:
 
-### Um navegador web (Chrome, Firefox, etc.)
-### Acesso à internet para fazer chamadas à API
-### Node.js e npm instalados
+#### Um navegador web (Chrome, Firefox, etc.)
+#### Acesso à internet para fazer chamadas à API
+#### Node.js e npm instalados
   
 # Passos para Executar
-Clone o repositório:
 
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-Instale as dependências (se aplicável):
+### 1. Clone o repositório:
 
-sh
-Copiar código
+```bash
+git clone https://github.com/becanmc/motorcycle-api.git
+cd motorcycle-api
+```
+
+### 2. Instale as dependências (se aplicável):
+
+```bash
 npm install
-Configure a API Key:
+```
+
+### 3. Configure a API Key:
 
 Crie um arquivo .env na raiz do projeto e adicione sua chave de API:
-makefile
-Copiar código
+```makefile
 REACT_APP_API_KEY=your_api_key_here
-Execute o projeto:
+```
 
-sh
-Copiar código
+### 4. Execute o projeto:
+
+```bash
 npm start
-Abra o navegador:
+```
 
-Acesse http://localhost:3000 para visualizar o projeto.
-Exemplo de Uso
-Buscar por Modelo: Digite o nome do modelo de motocicleta que deseja buscar na barra de pesquisa.
-Ver Detalhes: Clique em um modelo da lista para ver informações detalhadas.
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+### 5. Abra o navegador:
 
-Fork o repositório
-Crie uma branch para sua feature
-sh
-Copiar código
-git checkout -b feature/nova-feature
-Commit suas mudanças
-sh
-Copiar código
-git commit -m 'Adiciona nova feature'
-Push para a branch
-sh
-Copiar código
-git push origin feature/nova-feature
-Abra um Pull Request
-Licença
-Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+- Acesse http://localhost:3000 para visualizar o projeto.
 
-Contato
-Rebeca Costa - Seu LinkedIn
-Pedro Gonçalves - Seu LinkedIn
-Se precisar de mais alguma modificação ou tiver alguma dúvida, estou à disposição!
+# Licença
+Este projeto é licenciado sob a GNU License. Veja o arquivo LICENSE para mais detalhes.
+
+# Contato
+Rebeca Costa - 222201653@aluno.cotemig.com.br
+Pedro Gonçalves - 222201220@aluno.cotemig.com.br
