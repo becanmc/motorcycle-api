@@ -5,12 +5,13 @@ import { Link } from 'react-router-dom'
 import { FaYammer } from 'react-icons/fa6'
 
 // eslint-disable-next-line react/prop-types
-function Card({ name, model, type, engine, power, starter }) {
+function Card({ name, model, type, engine, power, starter, displacement }) {
     return (
         <section className={styles.card}>
             <h3>{name}</h3>
             <div className={styles.info}>
                 <p><strong>model:</strong> {model}</p>
+                <p><strong>displacement:</strong> {displacement}</p>
                 <p><strong>engine:</strong> {engine}</p>
                 <p><strong>power:</strong> {power}</p>
                 <p><strong>starter:</strong> {starter}</p>
