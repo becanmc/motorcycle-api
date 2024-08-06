@@ -9,12 +9,12 @@ Detalhes da Motocicleta: Veja informações detalhadas sobre cada modelo, inclui
 Interface Simples e Intuitiva: Navegação fácil para todos os tipos de usuários.
   
 # Tecnologias Utilizadas
-Frontend: HTML, CSS, JavaScript
-Backend: API Ninjas Motorcycles API
-Bibliotecas e Frameworks: React 
+- Frontend: HTML, CSS, JavaScript
+- Backend: API Ninjas Motorcycles API
+- Bibliotecas e Frameworks: React 
 
 # Como Usar
-Pré-requisitos
+### Pré-requisitos
 Para rodar este projeto localmente, você precisará de:
 
 #### Um navegador web (Chrome, Firefox, etc.)
@@ -38,7 +38,7 @@ npm install
 
 ### 3. Configure a API Key:
 
-Crie um arquivo .env na raiz do projeto e adicione sua chave de API:
+- Crie um arquivo .env na raiz do projeto e adicione sua chave de API:
 ```makefile
 REACT_APP_API_KEY=your_api_key_here
 ```
